@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @NumberInacave
-- 👀 I’m interested in Blender, Game Dev
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: www.youtube.com/@numberinacave
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am "cool"...?
+blob
 
-<!---
-NumberInacave/NumberInacave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Stuff] I program, do gamedev/design and graphic design, and sometimes animate<br>
+[Youtube] https://www.youtube.com/@numberinacave<br>
+[Soundcloud] https://soundcloud.com/number-762233887<br>
