@@ -1,5 +1,6 @@
-Hi, I'm numberinacave!<br>
+Hi, I'm NumberInacave!<br>
 
 I enjoy programming, gamedev/design, graphic design, and I also sometimes do animation<br>
-Youtube - https://www.youtube.com/@numberinacave<br>
-Soundcloud - https://soundcloud.com/numberinacave
+You can also find me on
+<a href="https://www.youtube.com/@numberinacave">Youtube</a> and
+<a href="https://soundcloud.com/numberinacave">SoundCloud</a>
